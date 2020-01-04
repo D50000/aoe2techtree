@@ -14,3 +14,7 @@ open [localhost:8000](http://localhost:8000) in any browser:
 
 ## Authors
 [HSZemi](https://github.com/hszemi) - Original Author
+
+
+### To do
+- Add the i18n.(Traditional/Simple Chinese)
